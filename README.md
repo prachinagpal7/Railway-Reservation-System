@@ -147,4 +147,4 @@ All queries use prepared statements.
 
 ## Author
 
-Prachi, third-year B.Tech CSE student. Built to practise OOP, database integration and transaction-based booking logic.
+Prachi, second-year B.Tech CSE student. Built to practise OOP, database integration and transaction-based booking logic.
